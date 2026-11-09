@@ -1,44 +1,114 @@
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="600">
-
-<img src="https://img.shields.io/badge/🛡️-ANDROID%20SECURITY-15263B?style=for-the-badge&labelColor=15263B" />
-
-
-Android Engineering
-
-<span style="color:#58A6FF">Security Research & Automation</span>
-
-Independent Developer · Android & Linux
-
-Building custom Android tools, security utilities and system automation solutions.
-
-<br>
-<img src="https://img.shields.io/badge/ANDROID-DEVELOPMENT-172B3D?style=flat-square&logo=android&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/SECURITY-RESEARCH-172B3D?style=flat-square&logo=kalilinux&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/ROOT-AUTOMATION-172B3D?style=flat-square&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/SYSTEM-TOOLS-172B3D?style=flat-square&logo=github&logoColor=BC8CFF" />
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
 <p align="center">
+  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/IMG-20261030-WA0001.jpg" alt="Mi Stack" width="100%">
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
-  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/stack3azul.png" alt="Mi Stack" width="100%">
 </p>
 
----
+<!-- APP_SHOWCASE_START -->
+
+<table width="100%" align="center" cellspacing="5" cellpadding="0">
+<tr>
+<td width="50%" valign="top" align="center">
+<h2>😈 Dark Tools 😈</h2>
+<b>Root &nbsp;·&nbsp; Pentesting &nbsp;·&nbsp; Android</b>
+<br><br>
+<table align="center" cellspacing="4" cellpadding="0">
+<tr>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/CpuTemp">
+<img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2" width="80" alt="CpuTemp">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/DemoniWifi">
+<img src="https://github.com/user-attachments/assets/1a94e993-335b-4936-9f9b-bb73ad110eeb" width="80" alt="DemoniWifi">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/DemoniDraw">
+<img src="https://github.com/user-attachments/assets/9f968006-ca8a-4b38-a14c-6e0f83648873" width="80" alt="DemoniDraw">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/HexRootScan">
+<img src="https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241" width="80" alt="HexRootScan">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/HexRootFuzz">
+<img src="https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966" width="80" alt="HexRootFuzz">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/Dimetu">
+<img src="https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f" width="80" alt="Dimetu">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/DemoniTalk">
+<img src="https://github.com/user-attachments/assets/07ccac91-4721-437f-9f5f-ae2df7afe724" width="80" alt="DemoniTalk">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/ProVoiceChanger">
+<img src="https://github.com/user-attachments/assets/c61b7d28-b62e-4a05-9dc7-06ae67ff053a" width="80" alt="ProVoiceChanger">
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td width="50%" valign="top" align="center">
+<h2>📱 General Apps 📱</h2>
+<b>Utilities &nbsp;·&nbsp; Accessibility &nbsp;·&nbsp; Science</b>
+<br><br>
+<table align="center" cellspacing="4" cellpadding="0">
+<tr>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/HexColor">
+<img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462" width="80" alt="HexColor">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/HexCollage">
+<img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24" width="80" alt="HexCollage">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/CyberVarilla">
+<img src="https://github.com/user-attachments/assets/4cc7e435-f27e-4a75-b926-af307f279453" width="80" alt="CyberVarilla">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/Daltonic-Assist-Pro">
+<img src="https://github.com/user-attachments/assets/250cd394-dc8a-4822-a81d-de03199ba262" width="80" alt="Daltonic-Assist-Pro">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/3Dscience">
+<img src="https://github.com/user-attachments/assets/a69b71ca-a59e-4f2c-a6a2-0061d5730e13" width="80" alt="3Dscience">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/Sniper">
+<img src="https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953" width="80" alt="Sniper">
+</a>
+</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/Resonantia">
+<img src="https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583" width="80" alt="Resonantia">
+</a>
+</td>
+<td align="center">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!-- APP_SHOWCASE_END -->
 
 <!-- ====================================================== -->
 <!--                    APP SHOWCASE                        -->
@@ -235,7 +305,7 @@ Building custom Android tools, security utilities and system automation solution
 
 ---
 
-# 🚀 Project Lab
+# 🚀 Project Lab 
 
 > A collection of Android, cybersecurity, automation and experimental projects.
 
@@ -245,15 +315,15 @@ Building custom Android tools, security utilities and system automation solution
 
 <td width="25%" valign="top" align="center">
 
-<h2>😈 DemoniTalk</h2>
+<h2>😈 DemoniTalk Pro</h2>
 
 <b>Android · Automation · Accessibility</b><br>
 
 Voice commands, macros and floating automation controls.<br><br>
 
-<code>Kotlin</code> <code>Accessibility</code> <code>Overlay</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" /><img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="20" alt="Rust" /> </code> <code>Accessibility</code> <code>Overlay</code><br><br>
 
-<a href="https://github.com/Jaypsmall/DemoniTalk">
+<a href="https://github.com/Jaypsmall/DemoniTalk-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
 </a>
 
@@ -303,7 +373,8 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
-<code>Kotlin</code> <code>Flutter</code> <code>Camera</code> <code>Color</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" /> 
+<code>Camera</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexColor">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
@@ -661,6 +732,13 @@ width="100%"
 alt="GitHub Contribution 3DStreak">
 </p>
 
+### 📡 CONNECT & SYSTEM INFO
+
+[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FFD600&labelColor=030B12)](https://github.com/Jaypsmall)
+[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FFD600&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
+
+![ProfileViews](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS&color=D93831&labelColor=FF6000)
+
 </td>
 
 </tr>
@@ -669,16 +747,9 @@ alt="GitHub Contribution 3DStreak">
 
 </div>
 
-<div align="center">
-  
-### 📡 CONNECT & SYSTEM INFO
-
-[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FFD600&labelColor=030B12)](https://github.com/Jaypsmall)
-[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FFD600&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
-
-![ProfileViews](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS&color=D93831&labelColor=FF6000)
-
 ---
+
+<div align="center">
 
 ### ⭐ Desarrollador de Android de código abierto ⭐
 
